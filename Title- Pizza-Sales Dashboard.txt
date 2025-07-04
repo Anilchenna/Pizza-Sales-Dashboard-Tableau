@@ -1,0 +1,41 @@
+Title:- Pizza-Sales Dashboard
+
+Description:- 
+
+Dashboard 1
+
+Top Metrics  Total Revenue: 817.86K Total Orders:21.35k Total Pizzas Sold: 49.57K Average Order Value: 38 Average Pizzas Per Order:2.32
+
+Filter Options: By Pizza Category
+
+This bar chart shows Daily trend for total orders: The bar chart shows the entire week. Highest Total order : Friday (3,538 order ) Lowest sales: Sunday Total order(2,627 order) Other notable week: Thursday: 3,239 Saturday: 3,158 Wednesday: 3,024.
+
+This bar chart shows monthly total orders: The bar chart shows all months Highest total orders: July (1,935 orders) Lowest total orders: October (1,646 orders) Other notable months:  January: 1,845 March: 1,840 August: 1,841.
+
+Percentage of Total Revenue by Pizza Category (Pie Chart): Veggie : 193.69k (23.68%) , Chicken : 195.92K (23.95%) , Supreme: 208.197K (25.45%) , Classic: 220.053K (26.90%).
+
+Percentage of Total Revenue by Pizza Size (Bar Chart): L (Large): 375.319k (45.89%) , M (Medium): 249.382K (30.49%) , S (Small): 178.076K (21.77%) , XL (Extra Large): 14.076K (1.72%)
+ XXL: Not shown (likely negligible or 0%)
+
+Total Pizzas Sold by Pizza Category (Scatter Plots Chart) : Veggie : 11.649k (23.49%) , Chicken : 11.050K (22.29%) ,  Supreme: 11.987K (24.18%) ,  Classic: 14.888K (30.03%).
+
+Dashboard 2
+
+Top 5 Top Selling Pizzas (Tree maps):-
+
+The top 5 pizza by Revenue : The Thai Chicken Pizza: 43.434K , The California Chicken Pizza: 41.410k, The Classic Deluxe Pizza: 38.181K , The Barbecue Chicken Pizza: 42.768K , 
+The spicy italian Pizza: 34.831K .
+
+The top 5 pizza by Category : The Classic Deluxe Pizza: 2,453 , The Hawaiian pizza :2,422 , The Peppieroni Pizza : 2,418 The Barbecue Chicken Pizza: 2,432 , The Thai Chicken Pizza: 2,371.
+
+The top 5 pizza by Total Order : The Classic Deluxe Pizza: 2,329 , The Hawaiian pizza :2,280 , The Peppieroni Pizza : 2,278 The Barbecue Chicken Pizza: 2,273 , The Thai Chicken Pizza: 2,225.
+
+The Bottom 5 pizza by Revenue : The Spinach Supreme Pizza: 15,278k , The Spinach pesto Pizza: 15.596k , The Green Garden Pizza: 13.956K , The Mediterranean Pizza: 15.361K , 
+The Brie Carre Pizza: 11.588K .
+
+The Bottom 5 pizza by Category : The Soppressata Pizza: 0.96k , The Calabrese Pizza: 0.94k , The Spinach Supreme Pizza: 0.95K , The Mediterranean Pizza: 0.94K , 
+The Brie Carre Pizza: 0.49K .
+
+
+The Bottom 5 pizza by Total Order : The Chicken Pizza: 0.94k , The Calabrese Pizza: 0.91k , The Spinach Supreme Pizza: 0.91K , The Mediterranean Pizza: 0.91K , 
+The Brie Carre Pizza: 0.48K .
